@@ -43,4 +43,4 @@ def main(keywords):
 
 
 if __name__ == "__main__":
-    main(["Tech", "Technews"])
+    main(["Tech", "Technology", "100DaysOfCode"])
